@@ -40,7 +40,7 @@ http://www.tipue.com/search
      max-width: 150px;
      max-height: 20px;
 	padding: 17px;
-	border: 2px solid #626591;
+	border: 2px solid #ffd0a8;
 	border-radius: 0;
 	-moz-appearance: none;
 	-webkit-appearance: none;
@@ -53,13 +53,13 @@ http://www.tipue.com/search
      width: 19px;
      height: 19px;
      margin-bottom: 0rem;
-     background-color: #f07f1f;
+     background-color: #ffd0a8;
 }
 .tipue_search_left
 {
      float: left;
      padding: 10px 5px 0 0;
-     color: #e3e3e3;
+     color: #ffd0a8;
      max-height: 20px;
 }
 .tipue_search_right
